@@ -1,4 +1,4 @@
-# BorrowLand
+# BoLend
 Single Page Web Application for borrowing & lending of items.
 Uses Angular on Frontend
 Ruby on Rails for Backend
